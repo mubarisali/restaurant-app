@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "itemId": 101,
+    "itemName": "Chicken Dum Biryani",
+    "name": "ali",
+    "rating": 4,
+    "comment": "good",
+    "createdAt": "2026-10-28T09:34:28.488478+00:00"
+  },
+  {
+    "id": 2,
+    "itemId": null,
+    "itemName": "Overall experience",
+    "name": "mubaris",
+    "rating": 4,
+    "comment": "broo super",
+    "createdAt": "2026-10-28T09:35:23.195458+00:00"
+  },
+  {
+    "id": 3,
+    "itemId": 105,
+    "itemName": "Al Faham Mandhi",
+    "name": "mubaris",
+    "rating": 1,
+    "comment": "machaa ath poraaa",
+    "createdAt": "2026-10-28T09:54:28.938366+00:00"
+  },
+  {
+    "id": 4,
+    "itemId": 105,
+    "itemName": "Al Faham Mandhi",
+    "name": "fahis",
+    "rating": 1,
+    "comment": "5 pisa kk illa",
+    "createdAt": "2026-10-28T09:55:00.098288+00:00"
+  }
+]

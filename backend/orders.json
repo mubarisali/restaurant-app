@@ -1,0 +1,87 @@
+[
+  {
+    "orderId": "SG-1001",
+    "customerName": "Test",
+    "phone": "9876543210",
+    "orderType": "delivery",
+    "address": "MG Road",
+    "tableNumber": null,
+    "notes": null,
+    "items": [
+      {
+        "id": 101,
+        "name": "Chicken Dum Biryani",
+        "price": 299,
+        "quantity": 1,
+        "lineTotal": 299
+      },
+      {
+        "id": 10104,
+        "name": "Chicken Mandhi (Today's Special)",
+        "price": 279,
+        "quantity": 1,
+        "lineTotal": 279
+      }
+    ],
+    "subtotal": 578,
+    "tax": 29,
+    "deliveryFee": 0,
+    "total": 607,
+    "estimatedMinutes": 40,
+    "createdAt": "2026-10-28T09:45:43.538522+00:00",
+    "estimatedReadyAt": "2026-10-28T10:25:43.538522+00:00",
+    "manualStatus": "out_for_delivery"
+  },
+  {
+    "orderId": "SG-1002",
+    "customerName": "Mubaris T",
+    "phone": "6235784647",
+    "orderType": "dine-in",
+    "address": null,
+    "tableNumber": "1",
+    "notes": "less spicy",
+    "items": [
+      {
+        "id": 109,
+        "name": "Chicken 65",
+        "price": 229,
+        "quantity": 1,
+        "lineTotal": 229
+      }
+    ],
+    "subtotal": 229,
+    "tax": 11,
+    "deliveryFee": 0,
+    "total": 240,
+    "estimatedMinutes": 20,
+    "createdAt": "2026-10-28T09:50:38.918206+00:00",
+    "estimatedReadyAt": "2026-10-28T10:10:38.918206+00:00",
+    "manualStatus": null
+  },
+  {
+    "orderId": "SG-1003",
+    "customerName": "mansoor T",
+    "phone": "9526780011",
+    "orderType": "takeaway",
+    "address": null,
+    "tableNumber": null,
+    "notes": "normal",
+    "items": [
+      {
+        "id": 302,
+        "name": "Fish Biryani",
+        "price": 359,
+        "quantity": 1,
+        "lineTotal": 359
+      }
+    ],
+    "subtotal": 359,
+    "tax": 18,
+    "deliveryFee": 0,
+    "total": 377,
+    "estimatedMinutes": 25,
+    "createdAt": "2026-10-28T10:04:24.616438+00:00",
+    "estimatedReadyAt": "2026-10-28T10:29:24.616438+00:00",
+    "manualStatus": null
+  }
+]
